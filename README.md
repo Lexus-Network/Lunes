@@ -17,6 +17,8 @@ If you want to contribute to this project, feel free to fork this repository and
 ## Credits
 Credit to [Horion](https://github.com/horionclient/Horion) & [NRG Horion](https://github.com/NRGJobro/Horion-Open-SRC) for allowing Lunes to use there base code for Lunes Client. 
 
+## Releases
+Check out the [Releases](https://github.com/ProjectLunes/Releases) page linked here!
 
 ## Licensing
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
