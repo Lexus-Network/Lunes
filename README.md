@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <p>
-      <a href="https://horion.download"><img src="https://raw.githubusercontent.com/horionclient/Horion/master/.github/horion-banner.png" width="600" alt="Horion" /></a>
+      <a href="https://www.lunesclient.ml"><img src="https://github.com/ProjectLunes/Client/blob/master/banner.png" width="600" alt="Lunes" /></a>
     </p>
   <br />
   <p>
