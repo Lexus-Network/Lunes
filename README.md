@@ -7,9 +7,9 @@
   <p>
     <a href="https://github.com/ProjectLunes/Releases"><img src="https://img.shields.io/static/v1?label=download&message=latest&color=12c970&logo=docusign&logoColor=white" alt="Download Injector" /></a>
     <a href="https://discord.gg/lunes"><img src="https://img.shields.io/discord/732833913705201736?color=5865F2&logo=discord&logoColor=white" alt="Discord Server" /></a>
-    <a href="https://dev.azure.com/horionclient/Horion/_build/latest?definitionId=2&branchName=master">
+    
   <p>
-    <b>Horion</b> is a Minecraft: Bedrock Edition utility mod designed to enhance gameplay. We do not take responsibility in anything done with this utility mod.
+    <b>Lunes</b> is a Minecraft: Bedrock Edition utility mod designed to enhance gameplay. We do not take responsibility in anything done with this utility mod.
 If you want to contribute to this project, feel free to fork this repository and submit a pull request.
   </p>
 </div>
